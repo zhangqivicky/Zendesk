@@ -106,11 +106,10 @@
 > This application has used three types of zendesk api urls listed
 > below:
 
-  https://**{**subdomain**}**.                                               zendesk.com/api/v2/tickets.json   
-  -------------------------------------------------------------------------- --------------------------------- --
-                                                                                                               
-  https://**{**subdomain**}**.zendesk.com/api/v2/tickets/**{**id**}**.json                                     
-  https://**{**subdomain**}**.zendesk.com/api/v2/users/**{**id**}**.json                                       
+
+>  https://**{**subdomain**}**.zendesk.com/api/v2/tickets.json                                                                  
+>  https://**{**subdomain**}**.zendesk.com/api/v2/tickets/**{**id**}**.json                                     
+>  https://**{**subdomain**}**.zendesk.com/api/v2/users/**{**id**}**.json                                       
 
 > Where the API reference docs can be found here:
 >
