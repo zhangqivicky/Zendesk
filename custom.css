@@ -1,0 +1,68 @@
+@CHARSET "UTF-8";
+
+a, a:hover, a:active, a:visited, a:focus {
+    text-decoration:none;
+}
+
+span.status{
+	text-transform: uppercase;
+	border: 1px solid #ccc;
+	padding: 2px;
+	border-radius: 8px;
+	margin-right: 5px;
+	font-size: 16px;
+}
+span.open{
+	border-color: red;
+}
+span.pending{
+	border-color: green;
+}
+span.new{
+	border-color: blue;
+}
+span.hold{
+	border-color: yellow;
+}
+span.solved{
+	border-color: orange;
+}
+span.closed{
+	border-color: #000;
+}
+span.title{
+	font-size: 16px;
+}
+
+.list-group-item{
+	background: #f5f5f5;
+	color: #000;
+}
+h3.title{
+	font-size: 20px;
+}
+p.desc{
+	border: 1px solid #ddd;
+	padding: 5px;
+	border-radius: 5px;
+}
+p.requester{
+	border: 1px dashed #ddd;
+	padding: 5px;
+}
+.back-link{
+	background: #ddd;
+	width: 100%;
+	color: #000;
+	padding: 5px 0px;
+}
+.back-btn{
+	margin-top: 10px;
+}
+
+p.intro, p.error{
+	padding: 5px;
+}
+p.error{
+	background: #f0f0d0;
+}
