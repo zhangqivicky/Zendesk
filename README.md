@@ -12,7 +12,7 @@
 > For demonstration purpose, this mobile application is hosted in a web
 > server. You can access it directly through clicking the link below.
 >
-> [[http://demo.ladyqi.com/]{.underline}](http://demo.ladyqi.com/)
+> http://demo.ladyqi.com/
 >
 > The first page lists all the tickets in the account. They includes
 > ticket title and its status (O: open, P: pending, N: new, H: hold, C:
@@ -21,11 +21,7 @@
 > presented in the second page. In this page, it shows requester name,
 > ticket title and description in sequence.
 >
-> ![](media/image1.jpg)![](media/image2.jpg)The screenshots on mobile
-> look like below. The third one is for the situation when api
-> authentication failed.
->
-> ![](media/image3.jpg)
+
 >
 > **Installation**
 >
